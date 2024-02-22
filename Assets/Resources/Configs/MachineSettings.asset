@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf4b25d29bc644ddb367a5c388b74d1c, type: 3}
+  m_Name: MachineSettings
+  m_EditorClassIdentifier: 
+  _numberOfSlots: 3
+  _items:
+  - _title: Ad
+    _icon: {fileID: 21300000, guid: 276ab63368649ec439bbb554f34b28e7, type: 3}
+    _type: 0
+  - _title: Aim
+    _icon: {fileID: 21300000, guid: b726b1256b732e046a54d7ca1d651f6b, type: 3}
+    _type: 1
+  - _title: Alarm
+    _icon: {fileID: 21300000, guid: e6c2f025636dfb24fbac59648af83edb, type: 3}
+    _type: 2
+  - _title: Archer
+    _icon: {fileID: 21300000, guid: 97dc999c47f60c14bb2007e1d402664b, type: 3}
+    _type: 3
+  - _title: Arrow Down
+    _icon: {fileID: 21300000, guid: b31db2068d83d5347bcc215ce070718e, type: 3}
+    _type: 4
+  - _title: Arrow Up
+    _icon: {fileID: 21300000, guid: be15ae1cc6646654daed9bae554fb81b, type: 3}
+    _type: 5
+  - _title: Attack
+    _icon: {fileID: 21300000, guid: ea82bfca61c9495468e2b52137529186, type: 3}
+    _type: 6
+  - _title: Award
+    _icon: {fileID: 21300000, guid: 412ee52c23ef5334697cbbc8e8c79679, type: 3}
+    _type: 7
+  - _title: Bag
+    _icon: {fileID: 21300000, guid: 539d52879b81bd4458065801d579836a, type: 3}
+    _type: 8
+  - _title: Battery 75
+    _icon: {fileID: 21300000, guid: 704b2a5a53eda8143abbdfff06ac9f8e, type: 3}
+    _type: 9
+  - _title: Bomb
+    _icon: {fileID: 21300000, guid: 551464f1c27f09e469184f93e9361382, type: 3}
+    _type: 10
+  - _title: Bluetooth
+    _icon: {fileID: 21300000, guid: f3ea0abb36d6222498f1a1f2b7ecdec7, type: 3}
+    _type: 11
+  - _title: Bone Broken
+    _icon: {fileID: 21300000, guid: e8441270bec19074580c72b54c266892, type: 3}
+    _type: 12
+  - _title: Bone
+    _icon: {fileID: 21300000, guid: cd42bdbb04ff17d4ea442033e3757a57, type: 3}
+    _type: 13
+  - _title: Book
+    _icon: {fileID: 21300000, guid: f7d224232440b3f4ca414dba2122ffbe, type: 3}
+    _type: 14
+  - _title: Camera
+    _icon: {fileID: 21300000, guid: 86ca61595fc1e4447a1d82bdc223e4e7, type: 3}
+    _type: 15
+  - _title: Clapperboard
+    _icon: {fileID: 21300000, guid: c78e5ac6a9da28449a79ab382bda4a91, type: 3}
+    _type: 16
+  - _title: Color Palette
+    _icon: {fileID: 21300000, guid: 4a4a1fdfe749b374d98237bd8a0430e5, type: 3}
+    _type: 0
+  - _title: Community
+    _icon: {fileID: 21300000, guid: dffd979f667252d4db67634168cd0fe1, type: 3}
+    _type: 18
+  - _title: Fire
+    _icon: {fileID: 21300000, guid: 28417c707b60f374591f7565d51528af, type: 3}
+    _type: 19
